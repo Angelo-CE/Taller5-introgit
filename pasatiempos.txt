@@ -1,1 +1,8 @@
-Pasatiempos de Angelo Ceciliano
+Pasatiempos de Angelo Ceciliano 
+{
+
+	pasatiempo1: "Jugar videojuegos",
+	pasatiempo2: "Ver Series",
+	pasatiempo3: "Correr"
+
+}
