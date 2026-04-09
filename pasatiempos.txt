@@ -12,3 +12,8 @@ Pasatiempos de Gustavo Alvarado
 	pasatiempo2: "Jugar videojuegos",
 	pasatiempo3: "Tocar guitarra"
 }.
+
+Pasatiempos en común 
+{
+	pasatiempo1: "Jugar videoguegos"
+}.
