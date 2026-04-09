@@ -1,1 +1,6 @@
-Pasatiempos de Angelo Ceciliano
+Pasatiempos de Angelo Ceciliano, Gustavo Alvarado
+{ 
+	pasatiempo1: "Escuchar musica",
+	pasatiempo2: "Jugar videojuegos",
+	pasatiempo3: "Tocar guitarra"
+}.
