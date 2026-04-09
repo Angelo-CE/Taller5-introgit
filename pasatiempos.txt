@@ -5,4 +5,10 @@ Pasatiempos de Angelo Ceciliano
 	pasatiempo2: "Ver Series",
 	pasatiempo3: "Correr"
 
-}
+}.
+Pasatiempos de Gustavo Alvarado
+{ 
+	pasatiempo1: "Escuchar musica",
+	pasatiempo2: "Jugar videojuegos",
+	pasatiempo3: "Tocar guitarra"
+}.
